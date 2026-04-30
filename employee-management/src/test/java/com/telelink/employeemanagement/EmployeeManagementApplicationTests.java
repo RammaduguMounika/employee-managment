@@ -1,4 +1,4 @@
-package com.telelink.employee_management;
+package com.telelink.employeemanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
